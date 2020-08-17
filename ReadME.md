@@ -6,8 +6,8 @@
 - 2020 Goals: Contribute to Open Source, "Finish" Life Tracker
 
 ### :link: Connect with me:
-[<img align="left" alt="Ahmed" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"]
-[<img align="left" alt="Ahmed" | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"]
+[<img align="left" alt="Ahmed" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="Ahmed" | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 
 ### :wrench: Languages and Tools:
 
